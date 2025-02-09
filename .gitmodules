@@ -1,0 +1,3 @@
+[submodule "Music-Rater-App"]
+	path = Music-Rater-App
+	url = https://github.com/eli-cas/Music-Rater-App
