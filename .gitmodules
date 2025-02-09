@@ -1,0 +1,6 @@
+[submodule "projects/Daily-Dashboard"]
+	path = projects/Daily-Dashboard
+	url = https://github.com/eli-cas/Daily-Dashboard.git
+[submodule "projects/Music-Rater-App"]
+	path = projects/Music-Rater-App
+	url = https://github.com/eli-cas/Music-Rater-App.git
