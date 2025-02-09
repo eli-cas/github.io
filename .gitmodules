@@ -1,6 +1,0 @@
-[submodule "Music-Rater-App"]
-	path = Music-Rater-App
-	url = https://github.com/eli-cas/Music-Rater-App
-[submodule "Daily-Dashboard"]
-	path = Daily-Dashboard
-	url = https://github.com/eli-cas/Daily-Dashboard

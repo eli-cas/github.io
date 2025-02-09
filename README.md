@@ -1,57 +1,70 @@
-# github.io
-Portfolio for Elisa Castillo
+# Getting Started with Create React App
 
-# 🚀 My Software Development Portfolio
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Welcome to my GitHub portfolio! Here, you'll find a collection of projects showcasing my skills in **JavaScript, React, CSS, HTML, Redux, and Bootstrap**. Feel free to explore, contribute, or reach out if you'd like to collaborate!
+## Available Scripts
 
-## 📌 Technologies & Tools
+In the project directory, you can run:
 
-- **Frontend:** React.js, Redux, HTML5, CSS3, Bootstrap
-- **JavaScript Frameworks & Libraries:** React Router, Axios, Styled Components
-- **State Management:** Redux, React Context API
-- **Version Control:** Git, GitHub
-- **Build Tools:** Webpack, Babel
-- **Other:** RESTful APIs, Responsive Web Design, UI/UX principles
+### `npm start`
 
-## 📂 Projects
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### 1️⃣  [Dailly Dashboard](https://github.com/eli-cas/Daily-Dashboard.git)
-**Description:** A website application that allows you to search weather, make a to-do list, save your emotion and get a quote of the day.
-- Built with React and Redux for state management.
-- Styled using Bootstrap for responsiveness.
-- Implements API fetching with Axios.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### 2️⃣ [Music Rater App](https://github.com/eli-cas/Music-Rater-App)
-**Description:** A website application that allows to rate songs and add comments to them. The songs can be found and selected using the Spotify API.
-- Interactive UI with React components.
-- Uses Spotify API
-- Uses Bootstrap.
+### `npm test`
 
-## 🛠️ Setup & Installation
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-To run any of the projects locally, follow these steps:
+### `npm run build`
 
-```sh
-# Clone the repository
-$ git clone https://github.com/yourusername/repository-name.git
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-# Navigate to project directory
-$ cd repository-name
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-# Install dependencies
-$ npm install
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# Start the development server
-$ npm start
-```
+### `npm run eject`
 
-## 📬 Contact Me
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you'd like to collaborate or have any questions, feel free to connect with me:
-- **GitHub:** [yourusername](https://github.com/eli-cas)
-- **LinkedIn:** [your-profile](https://www.linkedin.com/in/elda-elisa-castillo-576920b5/)
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
----
-Feel free to ⭐️ this repository if you find my work interesting!
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
